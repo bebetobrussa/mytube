@@ -1,0 +1,6 @@
+{
+  "name": "MyTube - Projeto MyTube",
+  "description": "Aplicativo web de streaming de vídeo baseado no Projeto MyTube com descoberta, reprodução sem anúncios invasivos, canais, histórico e painel administrativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
